@@ -7,7 +7,11 @@
 # 
 
 Autors: Vlads Vorobjovs
+
+Emīls Mustermanis
+
 ## Projekta saturs
+
 ===
 
 # 
