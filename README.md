@@ -6,5 +6,13 @@
 
 # 
 
-# Autors: Vlads Vorobjovs
+Autors: Vlads Vorobjovs
+## Projekta saturs
+===
+
+# 
+
+# \- HTML lapa
+
+# \- CSS noformējums
 
